@@ -4,6 +4,7 @@
 [submodule "gap8-obstacle-avoidance"]
 	path = gap8-obstacle-avoidance
 	url = https://github.com/boomer319/gap8-obstacle-avoidance
+	branch = master
 [submodule "crazyflie-optical-flow-obstacle-avoidance-app"]
 	path = crazyflie-optical-flow-obstacle-avoidance-app
 	url = https://github.com/boomer319/crazyflie-optical-flow-obstacle-avoidance-app
