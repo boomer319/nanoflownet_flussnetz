@@ -1,4 +1,4 @@
-NanoFlowNet_Showcase.ipynb is a google colab notebook that you can use to test out NanoFlowNet on your webcam. The code is based on code from this [issue](https://github.com/gemenerik/nanoflownet-cnns/issues/1#issue-1944061591).
+NanoFlowNet_Showcase.ipynb is a google colab notebook that you can use to test out NanoFlowNet on your webcam. The code is based on code from this [issue](https://github.com/gemenerik/nanoflownet-cnns/issues/1#issue-1944061591). Upload the .ipynb file to google colab and continue from there.
 
 # NanoFlowNet: Real-time Dense Optical Flow on a Nano Quadcopter
 Code and trained networks of the paper "NanoFlowNet: Real-time Dense Optical Flow on a Nano Quadcopter"
